@@ -84,6 +84,12 @@ button:hover{
   padding-left: 10px;
 }
 
+.education h3,
+.experience h3 {
+  color: #0078d4;
+  margin-top: 0;
+}
+
 .div-img {
   max-width: 805px;
   margin: 20px auto;
